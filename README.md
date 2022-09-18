@@ -1,2 +1,3 @@
 # GW2-Crafting
-Profit calculator for items to craft in Guild Wars 2
+
+Profit calculator for craftable items in Guild Wars 2.
